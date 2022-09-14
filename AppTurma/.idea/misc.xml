@@ -3,12 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Usuario/Documents/ADS/Mobile/AppTurma/app/src/main/res/layout/activity_crud_room.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/Usuario/Documents/ADS/Mobile/AppTurma/app/src/main/res/layout/activity_crud_room2.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/Usuario/Documents/ADS/Mobile/AppTurma/app/src/main/res/layout/activity_firebase_teste.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Usuario/Documents/ADS/Mobile/AppTurma/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Usuario/Documents/ADS/Mobile/AppTurma/app/src/main/res/layout/activity_menu.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Usuario/Documents/ADS/Mobile/AppTurma/app/src/main/res/layout/activity_segunda.xml" value="0.1675925925925926" />
         <entry key="..\:/Users/Usuario/Documents/ADS/Mobile/AppTurma/app/src/main/res/layout/activity_terceira.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Usuario/Documents/ADS/Mobile/AppTurma/app/src/main/res/layout/content_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Usuario/Documents/ADS/Mobile/AppTurma/app/src/main/res/layout/fragment_gallery.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Usuario/Documents/ADS/Mobile/AppTurma/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/Usuario/Documents/ADS/Mobile/AppTurma/app/src/main/res/layout/nav_header_menu.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Usuario/Documents/ADS/Mobile/AppTurma/app/src/main/res/menu/activity_main_drawer.xml" value="0.5" />
+        <entry key="..\:/Users/Usuario/Documents/ADS/Mobile/AppTurma/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>

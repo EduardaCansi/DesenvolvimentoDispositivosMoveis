@@ -32,4 +32,14 @@
         android:name="br.upf.ads.appturma.MainActivity"
         android:label="activity_main"
         tools:layout="@layout/activity_main" />
+    <activity
+        android:id="@+id/nav_crudRoomActivity"
+        android:name="br.upf.ads.appturma.CrudRoomActivity"
+        android:label="activity_crud_room2"
+        tools:layout="@layout/activity_crud_room2" />
+    <activity
+        android:id="@+id/nav_firebaseTesteActivity"
+        android:name="br.upf.ads.appturma.FirebaseTesteActivity"
+        android:label="activity_firebase_teste"
+        tools:layout="@layout/activity_firebase_teste" />
 </navigation>

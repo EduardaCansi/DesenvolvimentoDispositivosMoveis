@@ -41,7 +41,9 @@ class MenuActivity : AppCompatActivity() {
                 R.id.nav_gallery,
                 R.id.nav_slideshow,
                 R.id.nav_segundaTela,
-                R.id.nav_main
+                R.id.nav_main,
+                R.id.nav_crudRoomActivity,
+                R.id.nav_firebaseTesteActivity
             ), drawerLayout
         )
         setupActionBarWithNavController(navController, appBarConfiguration)

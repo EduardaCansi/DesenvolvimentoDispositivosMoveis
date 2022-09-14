@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "331778881037",
+    "firebase_url": "https://appcasca-a4a51-default-rtdb.firebaseio.com",
+    "project_id": "appcasca-a4a51",
+    "storage_bucket": "appcasca-a4a51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331778881037:android:f79dc8ab87bf3e2980c744",
+        "android_client_info": {
+          "package_name": "br.upf.ads.appturma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331778881037-n93n7puoe574sgo35mfkb73e1ka9ggcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgFBuq4db8UIgThkcRYaKAzQrP0AggzMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331778881037-n93n7puoe574sgo35mfkb73e1ka9ggcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -25,5 +25,11 @@
             android:id="@+id/nav_main"
             android:icon="@android:drawable/ic_menu_compass"
             android:title="Principal" />
+        <item
+            android:id="@+id/nav_crudRoomActivity"
+            android:title="CrudSQLite" />
+        <item
+            android:id="@+id/nav_firebaseTesteActivity"
+            android:title="TesteFirebase" />
     </group>
 </menu>
