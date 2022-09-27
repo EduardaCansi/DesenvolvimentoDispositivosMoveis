@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "626483824744",
+    "firebase_url": "https://appexercicio-9bba7-default-rtdb.firebaseio.com",
+    "project_id": "appexercicio-9bba7",
+    "storage_bucket": "appexercicio-9bba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626483824744:android:d020d10e01d370d55593dd",
+        "android_client_info": {
+          "package_name": "br.upf.ads.appexercicio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626483824744-90pnt4gcqkvn3156tor1hmuuofksfkfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIsrpufefYK1D_5nd-A4tuPybsei1lqzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626483824744-90pnt4gcqkvn3156tor1hmuuofksfkfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
